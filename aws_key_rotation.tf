@@ -1,8 +1,8 @@
 /*
 provider "aws" {
   region = "ap-south-1"
-  access_key = "AKIA3CIYKEMGB6GWZDWB"
-  secret_key = "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"
+  access_key = "dujbyvbubdWdkndkZDWB"
+  secret_key = "dkndknkFelfjbdugJYIp75Le"
 }
 
 resource "aws_iam_access_key" "existing_key" {
